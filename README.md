@@ -1,4 +1,4 @@
-<p align="center">Desenvolvedor curioso e dedicado, apaixonado por desafios e pela arte de transformar ideias em código. Como iniciante, estou sempre ávido por aprender e explorar novas tecnologias. Busco constantemente oportunidades para inovar e entregar soluções elegantes e eficientes. Comprometido com a excelência em cada linha de código, estou pronto para enfrentar qualquer desafio que o mundo da tecnologia possa apresentar, enquanto continuo minha jornada de aprendizado e crescimento.</p>&nbsp;
+<h4 align="center">Desenvolvedor curioso e dedicado, apaixonado por desafios e pela arte de transformar ideias em código. Como iniciante, estou sempre ávido por aprender e explorar novas tecnologias. Além disso, como diretor da atlética The Bug em minha faculdade, adquiri uma valiosa experiência em liderança e coordenação de equipes. Busco constantemente oportunidades para inovar e entregar soluções elegantes e eficientes. Comprometido com a excelência em cada linha de código, estou pronto para enfrentar qualquer desafio que o mundo da tecnologia possa apresentar, enquanto continuo minha jornada de aprendizado e crescimento.</h4>&nbsp;
 
 #### Most used languages:
 
