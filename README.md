@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/> 
 
-<h4 align="center">Desenvolvedor Fullstack movido pela paixão por tecnologia e sempre em busca de novos desafios e aprendizado contínuo. Com curiosidade e dedicação, transformo ideias em soluções funcionais, explorando e aplicando tecnologias inovadoras para criar resultados eficientes. Além do desenvolvimento, como diretor da atlética The Bug na faculdade, desenvolvi fortes habilidades de trabalho em equipe, organização e comunicação. .</h4>&nbsp;
+<h4 align="center">Desenvolvedor Fullstack sempre em busca de novos desafios e aprendizado contínuo. Com curiosidade e dedicação, transformo ideias em soluções funcionais, explorando e aplicando tecnologias inovadoras para criar resultados eficientes. Além do desenvolvimento, como diretor da atlética The Bug na faculdade, desenvolvi fortes habilidades de trabalho em equipe, organização e comunicação. .</h4>&nbsp;
 
 #### Most used languages:
 
