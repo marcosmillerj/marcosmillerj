@@ -27,7 +27,9 @@
 <div> 
 <a href = "mailto:marcosmillerjob@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href= "https://www.linkedin.com/in/marcos-miller-11217a168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href= "" target="_blank"><img src="https://img.shields.io/badge/CurriculoLaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"  target="_blank"></a> 
+<a href="https://cdn.jsdelivr.net/gh/marcosmillerj/marcosmillerj@main/Marcos_Miller_CvLatexx.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Curriculo_PDF-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+</a>
 </div>&nbsp;&nbsp;
  
 
