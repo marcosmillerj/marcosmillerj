@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/> 
 
-<h4 align="center"><b>Product Owner | Product Analyst | Ex-Fullstack Developer</b><br>Transformando necessidades de negócio em soluções tecnológicas. Unindo visão estratégica, prospecção comercial e sólida base técnica.</h4>
+<h4 align="center"><b>Product Owner | Product Analyst | Ex-Fullstack Developer</b><br>Objetivo de transformar necessidades de negócio em soluções tecnológicas. Unindo visão estratégica, prospecção comercial e sólida base técnica.</h4>
 
 <p align="center">
   Atualmente focado na intersecção entre <b>Negócios e Tecnologia</b>. Como ex-desenvolvedor Full Stack, possuo a facilidade de dialogar com times de engenharia, enquanto minha experiência comercial na SideMind Solutions me permite traduzir os problemas do cliente em requisitos claros (User Stories) e backlogs priorizados, tenho interesse em estratégias de negócios.
