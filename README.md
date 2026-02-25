@@ -6,6 +6,13 @@
   Atualmente focado na intersecção entre <b>Negócios e Tecnologia</b>. Como ex-desenvolvedor Full Stack, possuo a facilidade de dialogar com times de engenharia, enquanto minha experiência comercial na SideMind Solutions me permite traduzir os problemas do cliente em requisitos claros (User Stories) e backlogs priorizados, tenho interesse em estratégias de negócios.
 </p>
 
+#### Business & Sales Skills:
+
+![Sales](https://img.shields.io/badge/Vendas-Consultivas-008080?style=for-the-badge&logo=target)&nbsp;
+![Prospecting](https://img.shields.io/badge/Prospecção-de%20Leads-orange?style=for-the-badge&logo=hubspot)&nbsp;
+![CRM](https://img.shields.io/badge/CRM-Gestão-blue?style=for-the-badge&logo=salesforce)&nbsp;
+![Negotiation](https://img.shields.io/badge/Negociação-Estratégica-green?style=for-the-badge)&nbsp;
+
 #### Main technologies used as dev:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -22,15 +29,13 @@
 &nbsp;
 
 
-## Contacts:
+#### Contacts:
 
-<div> 
-<a href = "mailto:marcosmillerjob@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href= "https://www.linkedin.com/in/marcos-miller-11217a168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://cdn.jsdelivr.net/gh/marcosmillerj/marcosmillerj@main/Marcos_Miller_CvLatexx.pdf" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Curriculo_PDF-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
-</a>
-</div>&nbsp;&nbsp;
+<div>
+<a href="mailto:marcosmillerjob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcos-miller-11217a168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://cdn.jsdelivr.net/gh/marcosmillerj/marcosmillerj@main/Marcos_Miller_CvLatexx.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Curriculo_PDF-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
+</div>
  
 
   
