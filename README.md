@@ -3,7 +3,7 @@
 <h4 align="center"><b>Fullstack Developer | Product & Business Analyst</b><br>Focado em transformar necessidades de negócio em soluções tecnológicas de alto impacto. Unindo visão estratégica, prospecção comercial e sólida base técnica em engenharia de software.</h4>
 
 <p align="center">
-  Atualmente focado na intersecção entre <b>Negócios e Tecnologia</b>. Com sólido background como desenvolvedor Full Stack, possuo a facilidade de dialogar com times de engenharia e arquitetura, enquanto minha experiência comercial me permite traduzir dores reais de clientes em requisitos claros, backlogs priorizados e automações inteligentes.
+  Com sólido background como desenvolvedor Full Stack, possuo a facilidade de dialogar com times de engenharia e arquitetura, enquanto minha experiência comercial me permite traduzir dores reais de clientes em requisitos claros, backlogs priorizados e automações inteligentes.
 </p>
 
 #### Technical Stack (Active Assets):
